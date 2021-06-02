@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @TeryakiiSauce
-- 👀 I’m interested in anime
-- 🌱 I’m currently learning java
-- 📫 How to reach me ...
+I just do whatever i feel like whenever i feel like it... Thank you ^-^
 
 <!---
 TeryakiiSauce/TeryakiiSauce is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
