@@ -1,4 +1,4 @@
-<h3 align="center">I just do whatever I feel like whenever I feel like it... Thank you ^-^</h3>
+<h3 align="center">I just do whatever I want whenever I feel like it... Thank you ^-^</h3>
 
 ---
 
