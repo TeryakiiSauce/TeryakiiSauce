@@ -31,12 +31,14 @@
 <br>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/e7sfQlKCL4UHOpDeIn/giphy.gif">
+  <img src="./Resources/GIFs/Fire-Scifi.gif">
+  <br>
+  <figurecaption>Sauwce: <em><a href="https://giphy.com/gifs/fire-cyberpunk-cyborggirl-e7sfQlKCL4UHOpDeIn">Malondra_Gifs</a></em> On Giphy <strong>(@malondra)</strong></figurecaption>
 </p>
 
----
-
 <br>
+
+<h1 align="center">Statistics</h1>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=teryakiisauce&show_icons=true&locale=en&layout=compact" alt="teryakiisauce" /></p>
 
