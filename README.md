@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Elias</h1>
 <h3 align="center">A 3D artist and a good developer from Bahrain</h3>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=teryakiisauce&label=Profile%20views&color=0e75b6&style=flat" alt="teryakiisauce" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=teryakiisauce&label=Profile%20views&color=ff2e66&style=flat" alt="teryakiisauce" /> </p>
 
-<p align="left"> <a href="https://twitter.com/teryakiisauce" target="blank"><img src="https://img.shields.io/twitter/follow/teryakiisauce?logo=twitter&style=for-the-badge" alt="teryakiisauce" /></a> </p>
+<p align="left"> <a href="https://twitter.com/teryakiisauce" target="blank"><img src="https://img.shields.io/twitter/follow/teryakiisauce?logo=twitter&style=for-the-badge&color=ffc48c" alt="teryakiisauce" /></a> <a href="https://teryakiisauce.github.io/" target="blank"><img alt="my personal website" src="https://img.shields.io/badge/Website-My%20personal%20website-b95cff?style=for-the-badge&logo=appveyor" /> </a> </p>
 
 - 🔭 I’m currently working on an open-source game (Unity) [Magnet Mill](https://github.com/TeryakiiSauce/Magnet-Mill-Game)
 
