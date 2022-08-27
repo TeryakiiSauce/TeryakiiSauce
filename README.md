@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Elias</h1>
-<h3 align="center">A 3D artist and a good developer from Bahrain</h3>
+<h3 align="center">A 3D artist and a nice developer from a tiny country called Bahrain 🇧🇭</h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=teryakiisauce&label=Profile%20views&color=ff2e66&style=flat" alt="teryakiisauce" /> </p>
 
