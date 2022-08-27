@@ -23,7 +23,7 @@
 
 </p>
 
-- 🔭 I’m currently just relaxing before I start with my next big project (hint: Probably a web app for bike riders \*wink\*). And from time to time I spend my time ricing my Arch Linux.
+- 🔭 I’m currently just relaxing before I start with my next big project *(hint: Probably a web app for bike riders \*wink\*)*. And from time to time I spend my time ricing my Arch Linux.
 
 - 🌱 I’m thinking about learning the **Laravel framework for PHP**
 
