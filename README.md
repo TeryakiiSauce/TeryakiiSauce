@@ -23,9 +23,9 @@
 
 </p>
 
-- 🔭 I’m currently just relaxing before I start with my next big project *(hint: Probably a web app for bike riders \*wink\*)*. And from time to time I spend my time ricing my Arch Linux.
+- 🔭 I’m currently working on a big project *(hint: A virtual tour game of our country Bahrain 🇧🇭 \*wink\*)*.
 
-- 🌱 I’m thinking about learning the **Laravel framework for PHP**
+- 🌱 I’m learning **Flutter** and **3D art** during my free time.
 
 - 👨‍💻 One of the biggest projects I have worked on is a game called: **[Magnet Mill](https://github.com/TeryakiiSauce/Magnet-Mill-Game)**. All of my other projects/ repos are available at the "[Repositories](https://github.com/TeryakiiSauce?tab=repositories)" tab
 
@@ -33,7 +33,7 @@
 
 - 📫 How to reach me: **Twitter or LinkedIn**
 
-- ⚡ Fun fact: **I play with, learn & explore Blender (3D Software) whenever I have free time. I also watch Anime & play some games. And other times I usually try to learn something new that is related to programming.**
+- ⚡ Fun fact: **I learn & explore Blender (3D modeling software) whenever I have free time. I also watch Anime & play games. And other times I usually try to learn something new that is related to programming**.
 
 <!-- Connections -->
 <h3 align="left">Connect with me:</h3>
