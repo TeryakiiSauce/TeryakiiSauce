@@ -12,9 +12,9 @@
   <!-- Twitter -->
   <img src="https://img.shields.io/twitter/follow/teryakiisauce?logo=twitter&style=for-the-badge&color=ffc48c" alt="teryakiisauce" />
 </a>
-<a href="https://teryakiisauce.github.io/" target="blank">
+<a href="https://elias-rahma-portfolio.webflow.io/" target="blank">
   <!-- GitHub Website -->
-  <img alt="my personal website" src="https://img.shields.io/badge/Website-My%20personal%20website-b95cff?style=for-the-badge&logo=appveyor" />
+  <img alt="my portfolio" src="https://img.shields.io/badge/Portfolio-My%20portfolio-b95cff?style=for-the-badge&logo=appveyor" />
 </a>
 <a href="https://linktr.ee/teryakiisauce" target="blank">
   <!-- LinkTree -->
