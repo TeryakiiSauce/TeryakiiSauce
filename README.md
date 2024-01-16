@@ -8,14 +8,17 @@
 <!-- Links -->
 <p align="left">
 
+<!--
 <a href="https://twitter.com/teryakiisauce" target="blank">
-  <!-- Twitter -->
+  <!-- Twitter --
   <img src="https://img.shields.io/twitter/follow/teryakiisauce?logo=twitter&style=for-the-badge&color=ffc48c" alt="teryakiisauce" />
 </a>
 <a href="https://elias-rahma-portfolio.webflow.io/" target="blank">
-  <!-- GitHub Website -->
+  <!-- GitHub Website --
   <img alt="my portfolio" src="https://img.shields.io/badge/Portfolio-My%20portfolio-b95cff?style=for-the-badge&logo=appveyor" />
 </a>
+-->
+
 <a href="https://linktr.ee/teryakiisauce" target="blank">
   <!-- LinkTree -->
   <img alt="LinkTree" src="https://img.shields.io/badge/LinkTree-TeryakiiSauce-8cfb87?style=for-the-badge&logo=appveyor" />
@@ -33,7 +36,7 @@
 
 - 💬 Ask me stuff about **Blender (3D Software), designing & programming**, I am interested!
 
-- 📫 How to reach me: **Instagram, Twitter or LinkedIn**
+- 📫 How to reach me: **Instagram, ~~Twitter~~ or LinkedIn**
 
 - ⚡ Fun fact: **I learn & explore Blender (3D modeling software) whenever I have free time. I also watch Anime & play games. And other times I usually try to learn something new that is related to programming**.
 
